@@ -35,9 +35,9 @@ function App() {
                     row-span-1
                     rounded-xl
                     bg-gradient-to-r
-                    from-rose-400
-                    via-fuchsia-500
-                    to-indigo-500">
+                    from-rose-300
+                    via-fuchsia-400
+                    to-indigo-600">
     </div>  
 
     <div className="col-span-2 
